@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countrysCodes">
+        <item>gb</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>ua</item>
+    </string-array>
+
+    <integer-array name="countrysIcons">
+        <item>@drawable/ic_united_kingdom</item>
+        <item>@drawable/ic_germany</item>
+        <item>@drawable/ic_france</item>
+        <item>@drawable/ic_ukraine</item>
+    </integer-array>
+
+    <string-array name="countrys">
+        <item>United Kingdom</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Ukraine</item>
+    </string-array>
+
+</resources>
